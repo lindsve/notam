@@ -1,0 +1,11 @@
+# Rider settings
+.idea/
+.vs/
+
+# User-specific files
+*.user
+
+# Build results
+bin/
+obj/
+out/
